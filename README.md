@@ -1,8 +1,6 @@
 # Python-CD-Helper
 Programinha Python + Tkinter, que abre e fecha a bandeja de CD.
 
-
-<br>
 Basta clicar para abrir, e o fechamento é automático!!
 <br>
 O programa foi testado em Linux. Caso necessário, também existe suporte a outras plataformas.
