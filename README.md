@@ -7,6 +7,8 @@ Basta clicar para abrir, e o fechamento é automático!!
 <br>
 O programa foi testado em Linux. Caso necessário, também existe suporte a outras plataformas.
 <br>
+Verifique o caminho para o scriptHelper.py (em mainHelper.py), se o programa acusar algum erro. 
+<br>
 
 <strong> Clique novamente para abrir a bandeja e inserir outro CD. Não é necessário apertar o botão físico do leitor </strong>
 <br>
