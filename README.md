@@ -9,6 +9,6 @@ Basta clicar para abrir, e o fechamento é automático!!
 O programa foi testado em Linux. Caso necessário, também existe suporte a outras plataformas.
 <br>
 
-<strong> Basta clicar novamente para abrir a bandeja. Não é necessário apertar o botão físico do leitor </strong>
+<strong> Clique novamente para abrir a bandeja. Não é necessário apertar o botão físico do leitor </strong>
 
 
