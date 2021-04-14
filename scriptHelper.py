@@ -37,7 +37,7 @@ print(platform_name())
 if platform_name() in platforms_dictionary:
     print("Abrindo")
     exec(platforms_dictionary[platform_name()]["open"])
-    time.sleep(1)
+    time.sleep(1.5)
     print("Fechando")
     time.sleep(0.5)
     exec(platforms_dictionary[platform_name()]["close"])
