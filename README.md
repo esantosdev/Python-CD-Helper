@@ -15,6 +15,5 @@ Verifique o caminho para o scriptHelper.py (em mainHelper.py), se o programa acu
 Esse programa ilustra conceitos sobre Tkinter e manipulação de drive e mídia no Python. Um utilitário para abrir e fechar a bandeja, mas não reproduz o CD diretamente. Escolha um player de sua preferência.
 
 
-[![Captura-de-tela-de-2021-04-14-14-16-25.png](https://i.postimg.cc/bwt8kf0b/Captura-de-tela-de-2021-04-14-14-16-25.png)](https://postimg.cc/K1xdhVHv)
-
+[![Captura-de-tela-de-2021-04-14-15-46-43.png](https://i.postimg.cc/ydS27pbC/Captura-de-tela-de-2021-04-14-15-46-43.png)](https://postimg.cc/wygwV2zw)
 
