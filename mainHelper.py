@@ -10,7 +10,7 @@ wd.title("Python CD Helper")
 wd.configure(bg='purple')
 
 def executaScript():
-    os.system('/eri/Documentos/scriptHelper.py')
+    os.system('/home/eri/Documentos/scriptHelper.py')
 
 Bt = Tkinter.Button(wd,text="Abrir bandeja", command=executaScript, bg='aliceblue', height=10, width=100)
 Bt.pack()
