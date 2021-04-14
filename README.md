@@ -9,6 +9,8 @@ Basta clicar para abrir, e o fechamento é automático!!
 O programa foi testado em Linux. Caso necessário, também existe suporte a outras plataformas.
 <br>
 
-<strong> Clique novamente para abrir a bandeja. Não é necessário apertar o botão físico do leitor </strong>
+<strong> Clique novamente para abrir a bandeja e inserir outro CD. Não é necessário apertar o botão físico do leitor </strong>
+<br>
+Esse programa ilustra os conceitos sobre Tkinter e manipulação de drive e mídia no Python. Um utilitário para abrir e fechar a bandeja, mas não reproduz o CD diretamente. Escolha um player de sua preferência.
 
 
